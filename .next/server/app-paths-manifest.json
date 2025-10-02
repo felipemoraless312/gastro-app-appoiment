@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/servicios/page": "app/servicios/page.js",
+  "/citas/page": "app/citas/page.js",
+  "/telemedicina/page": "app/telemedicina/page.js",
+  "/contacto/page": "app/contacto/page.js",
+  "/portal-paciente/page": "app/portal-paciente/page.js"
+}
